@@ -2,7 +2,10 @@
 .externalNativeBuild
 
 # Built application files
+/build
 /*/build/
+/*/debug/
+/*/release/
 
 # Local configuration file (sdk path, etc)
 local.properties
